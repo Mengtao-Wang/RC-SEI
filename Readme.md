@@ -3,7 +3,7 @@
 This paper implements a resource-constrained specific emitter identification (RC-SEI) method based on efficient design and model compression, named **LCNet**. LCNet achieves accuracies of **99.40%** and **99.90%** on the ADS-B and Wi-Fi datasets, respectively, with only **33,510** and **33,544** parameters. (The paper is currently under review.)
 
 ## Requirements
-s
+
 - PyTorch v1.10.1
 - Python 3.6.13
 
