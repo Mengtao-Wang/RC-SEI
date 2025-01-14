@@ -30,7 +30,7 @@ This paper implements a resource-constrained specific emitter identification (RC
 - **Download Link**:  
   [Baidu Netdisk](https://pan.baidu.com/s/1uGhslNZtqxzNKR3-S6MvUA?pwd=5u3u)
 
-## References
+## Baseline Models
 
 ### CVNN
 - **Reference**:  
